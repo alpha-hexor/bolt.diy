@@ -9,7 +9,7 @@ For the best experience with bolt.diy, we recommend using the following models:
 - **Gemini 2.0 Flash**: Exceptional speed while maintaining good performance
 - **GPT-4o**: Strong alternative to Claude 3.5 Sonnet with comparable capabilities
 - **DeepSeekCoder V2 236b**: Best open source model (available through OpenRouter, DeepSeek API, or self-hosted)
-- **Qwen 2.5 Coder 32b**: Best model for self-hosting with reasonable hardware requirements
+  
 
 **Note**: Models with less than 7b parameters typically lack the capability to properly interact with bolt!
 </details>
